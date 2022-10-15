@@ -78,5 +78,6 @@ janela.configure(background = cor1)
 nome = StringVar()
 senha = StringVar()
 
+
 Aplication(janela)
 janela.mainloop()
