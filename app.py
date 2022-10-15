@@ -78,5 +78,7 @@ janela.configure(background = cor1)
 nome = StringVar()
 senha = StringVar()
 
+#isso é o beneficio do git
+
 Aplication(janela)
 janela.mainloop()
